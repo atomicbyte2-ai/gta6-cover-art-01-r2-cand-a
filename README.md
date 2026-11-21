@@ -1,7 +1,8 @@
 # Golden Getaway — GTA 6 Cover Art Maker
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![gta6-cover-art-01](https://img.shields.io/badge/gta6--cover--art--01-entry-orange)](https://make.fun)
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/atomicbyte2-ai/gta6-cover-art-01-r2-cand-a/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/atomicbyte2-ai/gta6-cover-art-01-r2-cand-a/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 
 Turn your crew into a sunset movie-poster cast. **Golden Getaway** builds a
 1024×576 landscape cast collage in the classic movie-poster structure: a
